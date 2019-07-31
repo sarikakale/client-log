@@ -1,0 +1,26 @@
+{
+  "name": "client-log",
+  "version": "1.0.0",
+  "description": "client side APIs to log events based on levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarikakale/client-log.git"
+  },
+  "keywords": [
+    "log",
+    "log",
+    "levels",
+    "client",
+    "logging"
+  ],
+  "author": "Sarika Kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarikakale/client-log/issues"
+  },
+  "homepage": "https://github.com/sarikakale/client-log#readme"
+}
